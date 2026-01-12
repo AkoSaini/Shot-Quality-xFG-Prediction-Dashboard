@@ -1,6 +1,6 @@
 # Shot Quality (xFG) Prediction & Dashboard
 
-Predicts shot make probability (xFG) using shot location + context and visualizes results in a Streamlit dashboard.
+Predicts shot make probability (xFG) using shot location + context and visualizes results in a Streamlit dashboard. Uses a dataset of all the shots taken by Kobe Bryant in his career.
 
 ## Tech
 Python, pandas, scikit-learn, Streamlit
