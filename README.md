@@ -6,7 +6,7 @@ Predicts shot make probability (xFG) using shot location + context and visualize
 Python, pandas, scikit-learn, Streamlit
 
 ## Results
-Gradient Boosting: ROC-AUC 0.630, LogLoss 0.650 (held-out test set)
+Gradient Boosting: ROC-AUC 0.630, LogLoss 0.650
 
 ## Run locally
 ```bash
