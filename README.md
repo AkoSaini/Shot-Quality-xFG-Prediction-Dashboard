@@ -2,7 +2,7 @@
 
 This project predicts basketball shot make probability (expected field goal percentage, **xFG**) from shot location and game context, then visualizes results in an interactive **Streamlit** dashboard. It uses the **Kobe Bryant Shot Selection** dataset containing shot attempts across his career.
 
-## Why this project
+## Project Goals
 Shot outcomes are noisy, but shot *quality* is more stable. By estimating `P(make)` for each attempt, the model enables analysis like:
 - Comparing **expected vs actual FG%** by zone, season, or opponent
 - Identifying which shot locations/types are generally higher quality
